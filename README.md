@@ -96,7 +96,7 @@ We are all humans trying to work together to improve the community. Always be ki
 
 A great way to contribute to the project is to send a detailed report when you encounter an issue.
 
-[See issues](https://github.com/we-dance/platform/issues) or [Create an issue](https://github.com/we-dance/platform/issues/new/choose).
+[See issues](https://github.com/we-dance/platform/issues) or [Create an issue](https://github.com/we-dance/platform/issues/new/choose)
 
 ### Where to contribute
 
